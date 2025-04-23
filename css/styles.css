@@ -176,8 +176,8 @@ body {
 }
 
 .contact {
-    display: flex;
-    justify-content: space-between;
+    display: block;
+    justify-content: center;
     margin-top: 30px;
 }
 
